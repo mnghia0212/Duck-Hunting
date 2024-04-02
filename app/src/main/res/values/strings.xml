@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Duck Hunting</string>
+    <string name="time_over_title">Time\'s Over!</string>
+    <string name="duck_shot_message">Ducks shot: %1$d</string>
+    <string name="high_score_message">High score: %1$d</string>
+    <string name="replay_button">Replay</string>
+    <string name="exit_button">Exit</string>
+</resources>
